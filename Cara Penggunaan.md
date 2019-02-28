@@ -1,6 +1,8 @@
 # JAVA-CRUDS-MYSQL
 
 CARA PENGGUNAAN :
+
+
 *Import Database
 1. Buka XAMPP control panel
 2. Nyalakan "Apache" dan "MySQL"
@@ -14,6 +16,8 @@ CARA PENGGUNAAN :
 10. Klik "OK"
 11. Klik "Kirim"
 12. selesai
+
+
 *Penggunaan Aplikasi
 1. Buka NetBeans IDE 
 2. Klik File->Open Project
